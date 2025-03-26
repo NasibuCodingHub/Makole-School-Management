@@ -37,9 +37,8 @@ PHP School management system developed for schools or small institutes. You can 
    Open XAMPP Control panel and start the Apache And MySQL Server  <br>
 
  <b>Step-2 :</b> Create Database <br>
-   <b>The schema file of the database setup is available at database/_sms.sql </b>
+   <b>The database/_sms.sql </b>
    <br><br>
-   From you xampp open phpmyadmin by clicking on admin button in front of MySQL -> create a database with the name '_sms' -> import the  database/_sms.sql file to complete the database setup.<br>
 
 <b>Step-3 :</b> Placement <br>
    <b> If you have xampp installed on your PC you need to place the downloaded folder on 'htdocs directory' </b>
