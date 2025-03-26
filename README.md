@@ -4,14 +4,14 @@
 # Makole school-management-system 
 PHP School management system developed for schools or small institutes. You can use this to maintain record's related to students, teachers, and other.
 
-## 🥏 Technolgies Used 
+## Technolgies Used 
   1. PHP (8.2) 
   2. MySQL database
   3. Bootstrap 5
   4. JQuery, JavaScript
   5. HTML, CSS
 
-## 💡 FEATURES 
+## FEATURES 
   1. student record management
   2. Teacher record management 
   3. Leave Management
@@ -29,7 +29,7 @@ PHP School management system developed for schools or small institutes. You can 
 
 
 
-## ✅ HOW TO USE?
+## HOW TO USE
 
   <b>Pre-requirement</b> : Make sure you have both php and MySQL installed on your PC. You can also use XAMPP which provide BOTH (php + MySQL).<br><br>
 
@@ -53,7 +53,7 @@ PHP School management system developed for schools or small institutes. You can 
    <br> Visit to the given URL to see the running website
    
 
-## ❤️ Credentials
+## Credentials 
 
 
 <b>users <br>
