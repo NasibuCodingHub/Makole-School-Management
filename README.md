@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Makole-School-Management
 =======
 # Makole school-management-system 
